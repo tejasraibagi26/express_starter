@@ -1,9 +1,9 @@
 {
   "jwtPrivateKey": "",
-  "pgURL": "ec2-3-228-114-251.compute-1.amazonaws.com",
+  "pgURL": "ec2-3-216-129-140.compute-1.amazonaws.com",
   "pgPort": "5432",
-  "pgDb": "dbmsgbv5tf2dki",
-  "pgUser": "jdbmgcbrntwgds",
-  "pgPassword": "dcc013259c042db151639abd73af594b896da1393c1bb5fc10d14d4d5ec3f71c",
+  "pgDb": "d35kplc9gr6os4",
+  "pgUser": "lgfvcohtywvplg",
+  "pgPassword": "ed284056ee01039adfc9aaef0334b141d15f5fe707c9dcdbc96632a9c8442c6e",
   "PORT": "3000"
 }

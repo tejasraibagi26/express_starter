@@ -10,6 +10,7 @@ const auth = require("./middlewares/auth");
 const error = require("./middlewares/error");
 
 const Auth = require("./routes/api/Auth");
+const Menu = require("./routes/api/Menu");
 
 // initialize express app
 app = express();
@@ -32,6 +33,7 @@ app.get("/", (req, res) =>
 );
 // routes
 app.use("/api/v1/auth", Auth);
+app.use("/api/v1/menu", Menu);
 // app.use("/api/v1/<...>", auth, Media);
 
 // error handling middleware
