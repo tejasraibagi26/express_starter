@@ -1,5 +1,5 @@
 {
-  "name": "let-india-breathe",
+  "name": "server",
   "version": "1.0.0",
   "description": "server side srcipting",
   "main": "index.js",
@@ -16,16 +16,12 @@
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "body-parser": "^1.19.0",
     "config": "^3.3.1",
     "cors": "^2.8.5",
-    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "helmet": "^3.22.1",
-    "joi": "^14.3.1",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.26.0",
-    "mongoose": "^5.9.18",
     "morgan": "^1.10.0",
     "nodemailer": "^6.4.8",
     "pg-promise": "^10.5.6"

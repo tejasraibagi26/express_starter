@@ -1,14 +1,9 @@
 {
   "jwtPrivateKey": "",
-  "mongoURI": "",
-  "pgURL": "",
-  "pgPort": "",
-  "pgDb": "",
-  "pgUser": "",
-  "pgPassword": "",
-  "PORT": "",
-  "s3Key": "",
-  "s3Secret": "",
-  "s3Bucket": "",
-  "s3Region": ""
+  "pgURL": "ec2-3-228-114-251.compute-1.amazonaws.com",
+  "pgPort": "5432",
+  "pgDb": "dbmsgbv5tf2dki",
+  "pgUser": "jdbmgcbrntwgds",
+  "pgPassword": "dcc013259c042db151639abd73af594b896da1393c1bb5fc10d14d4d5ec3f71c",
+  "PORT": "3000"
 }

@@ -13,7 +13,7 @@ const pdb = pg({
   database: pgDb,
   user: pgUser,
   password: pgPassword,
-  // ssl: true,
+  ssl: { rejectUnauthorized: false },
 });
 
 module.exports = { pdb: pdb };
